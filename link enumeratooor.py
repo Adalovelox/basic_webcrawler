@@ -1,4 +1,4 @@
-from BeautifulSoup4.bs4 import BeautifulSoup #I had to clone beautifulsoup4 in my folder directory because either pip is being weird. Alternatively try "from bs4." 
+from bs4 import BeautifulSoup  
 import mechanize, http.cookiejar as baking
 
 
